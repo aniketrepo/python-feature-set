@@ -1,5 +1,11 @@
 import ListSplit
 import dt
+
+#   This is the main class of the Aniket's LMS
+#   All rights owned by Aniket Dixit
+#   This project/solution involves 4 Python classes and a CSV file
+#   https://github.com/aniketrepo/python-feature-set
+
 def returnBook():
     name=input("Enter name of borrower: ")
     a="Borrow-"+name+".csv"
