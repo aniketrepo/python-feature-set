@@ -1,9 +1,19 @@
 import os
 
 
-#   All rights owned by Aniket Dixit
-#   This project/solution involves 4 Python classes and a CSV file
-#   https://github.com/aniketrepo/python-feature-set
+def getDate():
+    import datetime
+    now = datetime.datetime.now
+    # print("Date: ",now().date())
+    return str(now().date())
+
+
+def getTime():
+    import datetime
+    now = datetime.datetime.now
+    # print("Time: ",now().time())
+    return str(now().time())
+
 
 def listSplit():
     global bookname
