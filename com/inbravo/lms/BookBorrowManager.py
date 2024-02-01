@@ -85,7 +85,7 @@ def borrowBook(borrowerType):
                     success = False
             except IndexError:
                 print("")
-                print("Please choose book acording to their number.")
+                print("Please choose book according to their number.")
         except ValueError:
             print("")
             print("Please choose as suggested.")
