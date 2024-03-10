@@ -1,5 +1,8 @@
-# Library Management System (LMS) by Aniket Dixit
-## Class XII Practical Project 
+# My Experiments with Python
+
+- [Connection with MYSQL](\com\inbravo\db\mysql\MySQLTest.py)
+
+## Class XII Practical Project- Library Management System (LMS) by Aniket Dixit 
 - The purpose of this Library Management System (LMS) is to operate a library with efficiency and at reduced costs. 
 - The system being entirely automated streamlines all the tasks involved in the operations of the library. 
 - The activities of book borrowing, returning, and stock checking are done by the LMS solution. 
