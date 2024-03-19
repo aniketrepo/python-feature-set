@@ -10,6 +10,7 @@
 ## Pandas
 * [Creation of series from scalar values](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Creation%20of%20series%20from%20scalar%20values.py)
 * [Creation of series from numpy arrays](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Creation%20of%20series%20from%20numpy%20arrays.py)
+* [Creation of series from dictionaries](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Creation%20of%20series%20from%20dictionaries.py)
 
 ## Matplotlib
 * [Plotting temperature against date](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/matplotlib/Plotting%20temperature%20against%20date.py)
