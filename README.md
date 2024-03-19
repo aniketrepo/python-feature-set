@@ -11,7 +11,7 @@
 
 
 ## Matplotlib
-* [/Plotting temperature against date](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/matplotlib/Plotting%20temperature%20against%20date.py)
+* [Plotting temperature against date](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/matplotlib/Plotting%20temperature%20against%20date.py)
 
 
 ## MySQL
