@@ -8,7 +8,7 @@
 
 
 ## Pandas
-
+* [Creation of series from scalar values](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Creation%20of%20series%20from%20scalar%20values.py)
 
 ## Matplotlib
 * [Plotting temperature against date](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/matplotlib/Plotting%20temperature%20against%20date.py)
