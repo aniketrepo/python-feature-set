@@ -8,6 +8,9 @@
 * [Band name generator](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/100-days-of-coding/band%20name%20generator.py)
 * [Type Error, Type Checking and Type Conversion](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/100-days-of-coding/type%20error%2C%20type%20checking%20and%20type%20conversion.py)
 * [A program which adds the digits of a provided two digit number](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/100-days-of-coding/A%20program%20which%20adds%20the%20digits%20of%20a%20provided%20two%20digit%20number.py)
+* [BMI Calculator](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/100-days-of-coding/BMI%20Calculator.py)
+
+
 * [Library Managment System](https://github.com/aniketrepo/python-feature-set/tree/main/com/inbravo/lms)
 
 
