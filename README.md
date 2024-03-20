@@ -4,7 +4,8 @@
 * [Using print modifiers](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/100-days-of-coding/using%20print%20modifiers.py)
 * [String Manipulation](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/100-days-of-coding/string%20manipulation.py)
 * [A simple program which tells the number of characters in a string using the len() function](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/100-days-of-coding/using%20the%20len%20function.py)
-* [Band name generator](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/100-days-of-coding/Band%20name%20generator.py)
+* [Band name generator](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/100-days-of-coding/band%20name%20generator.py)
+* [Type Error, Type Checking and Type Conversion](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/100-days-of-coding/type%20error%2C%20type%20checking%20and%20type%20conversion.py)
 * [Library Managment System](https://github.com/aniketrepo/python-feature-set/tree/main/com/inbravo/lms)
 
 
