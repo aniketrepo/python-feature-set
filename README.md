@@ -10,6 +10,7 @@
 * [A program which adds the digits of a provided two digit number](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/100-days-of-coding/A%20program%20which%20adds%20the%20digits%20of%20a%20provided%20two%20digit%20number.py)
 * [BMI Calculator](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/100-days-of-coding/BMI%20Calculator.py)
 * [Methods of series](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Methods%20of%20series.py)
+* [Mathematical operations on series](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Mathematical%20operations%20on%20series.py)
 * [Library Managment System](https://github.com/aniketrepo/python-feature-set/tree/main/com/inbravo/lms)
 
 
