@@ -1,6 +1,4 @@
 import mysql.connector
-import pandas as pd
-
 
 #   This is the test class to connect with MySQL
 #   All rights owned by Aniket Dixit
