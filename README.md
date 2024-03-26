@@ -21,7 +21,7 @@
 * [Accessing elements of a series using indexing](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Accessing%20elements%20of%20a%20series%20using%20indexing.py)
 * [Accessing elements of a series using slicing](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Accessing%20elements%20of%20a%20series%20using%20slicing.py)
 * [Attributes of series](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Accessing%20elements%20of%20a%20series%20using%20slicing.py)
-* [Creation of DataFrame](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Creation%20of%20DataFrame.py)
+* [Creation of an empty DataFrame](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Creation%20of%20an%20empty%20DataFrame.py)
 
 ## Matplotlib
 * [Plotting temperature against date](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/matplotlib/Plotting%20temperature%20against%20date.py)
