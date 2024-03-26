@@ -15,14 +15,19 @@
 
 
 ## Pandas (PANel DAtaS)
+### Series-
 * [Creation of series from scalar values](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Creation%20of%20series%20from%20scalar%20values.py)
 * [Creation of series from numpy arrays](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Creation%20of%20series%20from%20numpy%20arrays.py)
 * [Creation of series from dictionaries](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Creation%20of%20series%20from%20dictionaries.py)
 * [Accessing elements of a series using indexing](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Accessing%20elements%20of%20a%20series%20using%20indexing.py)
 * [Accessing elements of a series using slicing](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Accessing%20elements%20of%20a%20series%20using%20slicing.py)
 * [Attributes of series](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Accessing%20elements%20of%20a%20series%20using%20slicing.py)
+### DataFrames- 
 * [Creation of an empty DataFrame](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Creation%20of%20an%20empty%20DataFrame.py)
 * [Creation of a DataFrame from a NumPy ndarray](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Creation%20of%20a%20DataFrame%20from%20a%20NumPy%20ndarray.py)
+* [Creation of DataFrame from dictionary](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Creation%20of%20DataFrame%20from%20dictionary.py)
+* [Creation of DataFrame from dictionary of lists](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Creation%20of%20DataFrame%20from%20dictionary%20of%20lists.py)
+* [Creation of DataFrame from series](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Creation%20of%20DataFrame%20from%20series.py)
 
 ## Matplotlib
 * [Plotting temperature against date](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/matplotlib/Plotting%20temperature%20against%20date.py)
