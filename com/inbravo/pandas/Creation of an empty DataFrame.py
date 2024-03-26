@@ -8,13 +8,6 @@ print('\n')
 
 
 
-dict= [
-    {'a':10, 'b':20},
-    {'a':5, 'b':10, 'c':20}
-]
-dFrameDict= pd.DataFrame(dict)      # Creation of DataFrame from dictionary
-print(dFrameDict)
-print('\n')
 
 dictLst= {
     'Name':['Jack','John','Zack'],
