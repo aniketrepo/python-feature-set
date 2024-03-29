@@ -29,6 +29,7 @@
 * [Creation of DataFrame from dictionary of lists](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Creation%20of%20DataFrame%20from%20dictionary%20of%20lists.py)
 * [Creation of DataFrame from series](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Creation%20of%20DataFrame%20from%20series.py)
 * [Creation of DataFrame from dictionary of series](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Creation%20of%20DataFrame%20from%20dictionary%20of%20series.py)
+* [Operations on rows and columns in DataFrames](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/pandas/Operations%20on%20rows%20and%20columns%20in%20DataFrames.py)
 
 ## Matplotlib
 * [Plotting temperature against date](https://github.com/aniketrepo/python-feature-set/blob/main/com/inbravo/matplotlib/Plotting%20temperature%20against%20date.py)
