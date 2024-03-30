@@ -32,7 +32,7 @@
 * [Operations on rows and columns in DataFrames](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/pandas/Operations%20on%20rows%20and%20columns%20in%20DataFrames.py)
 * [Accessing DataFrame elements through indexing](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/pandas/Accessing%20DataFrame%20elements%20through%20indexing.py)
 * [Accessing DataFrame elements through slicing](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/pandas/Accessing%20DataFrame%20elements%20through%20slicing.py)
-* [Joining of DataFrames](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/pandas/Joining%2C%20Merging%20and%20Concatenation%20of%20DataFrames.py)
+* [Joining of DataFrames](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/pandas/Joining%20of%20DataFrames.py)
 
 ## Matplotlib
 * [Plotting temperature against date](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/matplotlib/Plotting%20temperature%20against%20date.py)
