@@ -14,6 +14,7 @@
 
 
 ## Pandas (PANel DAtaS)
+* [Random](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/pandas/BE.py)
 ### Series-
 * [Creation of series from scalar values](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/pandas/Creation%20of%20series%20from%20scalar%20values.py)
 * [Creation of series from numpy arrays](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/pandas/Creation%20of%20series%20from%20numpy%20arrays.py)
