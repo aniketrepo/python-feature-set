@@ -35,6 +35,7 @@
 * [Accessing DataFrame elements through slicing](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/pandas/Accessing%20DataFrame%20elements%20through%20slicing.py)
 * [Joining of DataFrames](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/pandas/Joining%20of%20DataFrames.py)
 * [Calculating maximum values in a DataFrame](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/pandas/Calculating%20maximum%20values%20in%20a%20DataFrame.py)
+* [Calculating minimum values in a DataFrame](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/pandas/Calculating%20minimum%20values%20in%20a%20DataFrame.py)
 
 ## Matplotlib
 * [Plotting temperature against date](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/matplotlib/Plotting%20temperature%20against%20date.py)
