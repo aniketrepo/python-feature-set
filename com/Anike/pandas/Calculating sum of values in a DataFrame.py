@@ -12,20 +12,19 @@ marksUT= pd.DataFrame({
 print(marksUT)
 print('\n')
 
-print(marksUT.max())    # Will return the maximum values in each column
+print(marksUT.sum())
 print('\n')
 
-print(marksUT.max(numeric_only= True))  # Will only return the maximum numeric values from each columns, ignores the columns which store non-numeric values
+print(marksUT['Maths'].sum())     # To print the sum of the values in the maths column only
 print('\n')
 
-marksUT2= marksUT[marksUT.UT == 2]
-print('The marks scored by each student in the UT-2 are:')
-print(marksUT2)
+marksUTRaman= marksUT[marksUT['Name'] == 'Raman']    # To print the sum of marks scored by Raman
+print('Marks scored by Raman is:\n')
+print(marksUTRaman)
 print('\n')
 
-print('Maximum marks scored by each student in UT-2 are:')
-print(marksUT2.max(numeric_only= True))
+print(marksUTRaman[['Maths', 'Science', 'S.St', 'Hindi', 'Eng']].sum())
 print('\n')
 
-print(marksUT.max(axis=1))      # To print the maximum marks of a row, one should specify axis=1
+print(marksUTRaman[['Maths', 'Science', 'S.St', 'Hindi', 'Eng']].sum(axis=1))   # To print the sum of marks scored by raman in all subjects in all unit tests
 print('\n')
