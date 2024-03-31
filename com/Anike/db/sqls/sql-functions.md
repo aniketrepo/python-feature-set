@@ -167,7 +167,8 @@ use carshowroom;
 select COUNT(*);
 ```
 
-### GROUP BY- It groups the rows together that contain the same values in a specified column
+### GROUP BY- 
+* It groups the rows together that contain the same values in a specified column
 ```
 use CARSHOWROOM;
 select CustID, count(*) 'Number of Cars' from sale group by CustID;		### to display the number of cars purchased by each customer from the sale table
@@ -176,32 +177,35 @@ select PaymentMode, count(PaymentMode) from sale group by PaymentMode order by P
 select PaymentMode, count(PaymentMode) from sale group by PaymentMode having count(*)>1 order by PaymentMode; 	### to display the payment mode and the number of payments made using that mode more than once
 ```
 
-### UNION- It is used to combine the selected rows of two tables at a time. If some rows are same in both the tables, then it will print them only once.
+### UNION-
+* It is used to combine the selected rows of two tables at a time. If some rows are same in both the tables, then it will print them only once.
 ```
 use school;
 select * from dance union select * from music;	### to apply union between two tables dance and music
 ```
 
-### INTERSECT- It is used to obtain the common tuples from two tables
+### INTERSECT- 
+* t is used to obtain the common tuples from two tables
 ```
 use school;
 select * from dance intersect select * from music;	### to apply an intersect between two tables dance and music
 ```
 
-### MINUS- It is used to obtain the tuples/rows which are in the first table and not in the second
+### MINUS-
+* It is used to obtain the tuples/rows which are in the first table and not in the second
 ```
 use school;
 select * from dance minus select * from music;
 ```
 
-### Cartesian Product- It is a result of combining every row from one table with every row from another table
+### Cartesian Product-
+* It is a result of combining every row from one table with every row from another table
 ```
 use school;
 select * from dance, music;	### to apply cartesian product between two tables dance and music
 ```
 
-### JOIN- It is an operation which is used to combine rows from two or more tables based on one or more common fields between them
+### JOIN-
+* It is an operation which is used to combine rows from two or more tables based on one or more common fields between them
 ```
 use school;
-
-
