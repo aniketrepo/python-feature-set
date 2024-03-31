@@ -27,5 +27,5 @@ print('Maximum marks scored by each student in UT-2 are:')
 print(marksUT2.max(numeric_only= True))
 print('\n')
 
-print(marksUT.max(axis=1))      # To print the maximum marks of a row, one should specify axis=0
+print(marksUT.max(axis=1))      # To print the maximum marks of a row, one should specify axis=1
 print('\n')
