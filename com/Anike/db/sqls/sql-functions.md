@@ -1,23 +1,27 @@
-### `POWER(X,Y);` - Calculates X to the power Y
+### `POWER(X,Y);` 
+* Calculates X to the power Y
 ```
 use carshowroom;
 select * POWER(2,5);	### calculates 2 to the power 5
 ```
 
-### `ROUND(N,D);` - Rounds off number N to D number of decimal places
+### `ROUND(N,D);`
+* Rounds off number N to D number of decimal places
 ```
 use carshowroom;
 select * ROUND(1912.564, 1);	### Rounds off 1912.564 to 1 decimal place
 select ROUND(12/100*Price, 1) 'GST' from inventory;	
 ```
 
-### `MOD(A,B);` - Divides number A by B and returns the remainder
+### `MOD(A,B);`
+* Divides number A by B and returns the remainder
 ```
 use carshowroom;
 select MOD(15,2);	### Divides 15 by 2 and returns the remainder
 ```
 
-### `UCASE('string');` or UPPER('string'); - Converts string into uppercase
+### `UCASE('string');` or `UPPER('string');`
+* Converts string into uppercase
 ```
 use carshowroom;
 select UCASE('example');
@@ -25,7 +29,8 @@ select UPPER('example');
 select UPPER(CustName), UPPER(Email) from customer;
 ```
 
-### `LOWER('string'); or LCASE('string');` - Converts string into lowercase
+### `LOWER('string');` or `LCASE('string');`
+* Converts string into lowercase
 ```
 use carshowroom
 select LOWER('example');
@@ -33,7 +38,8 @@ select LCASE('example');
 select LOWER(CustName), LOWER(Email) from customer;
 ```
 
-### `MID('string', pos, n); or SUBSTRING('string', pos, n); or SUBSTR('string', pos, n);` - Returns a substring of size 'n' starting from the specified position 'pos' of the 'string'
+### `MID('string', pos, n);` or `SUBSTRING('string', pos, n);` or `SUBSTR('string', pos, n);`
+- Returns a substring of size 'n' starting from the specified position 'pos' of the 'string'
 ```
 use carshowroom
 select MID('example', 2, 3);
@@ -41,127 +47,147 @@ select SUBSTRING('example', 2, 3);
 select SUBSTR('example', 2, 3);
 ```
 
-### `LENGTH('string');` - Returns the number of specified characters in the given string
+### `LENGTH('string');`
+* Returns the number of specified characters in the given string
 ```
 use carshowroom
 select LENGTH('example');
 select LENGTH(Email) from customer;
 ```
 
-### `LEFT('string', n);` - Returns 'n' number of characters from the left side of the given string
+### `LEFT('string', n);`
+* Returns 'n' number of characters from the left side of the given string
 ```
 use carshowroom
 select LEFT('example', 2);
 select LEFT(Email, instr(Email, '@')-1) from customer;
 ```
 
-### `RIGHT('string', n);` - Returns 'n' number of characters from the right side of the given string
+### `RIGHT('string', n);`
+* Returns 'n' number of characters from the right side of the given string
 ```
 use carshowroom
 select RIGHT('example', 2);
 ```
 
-### `INSTR('string', 'substring');` - Returns the position of the first occurence of the substring in the string
+### `INSTR('string', 'substring');`
+* Returns the position of the first occurence of the substring in the string
 ```
 use carshowroom
 select INSTR('example', 'pl');
 select INSTR(Email, '@') from customer;
 ```
 
-### `LTRIM('string');` - Returns the string after removing the leading white space characters 
+### `LTRIM('string');`
+* Returns the string after removing the leading white space characters 
 ```
 use carshowroom
 select LTRIM('    example');
 ```
 
-### `RTRIM('string');` - Returns the string after removing the trailing white space characters
+### `RTRIM('string');`
+Returns the string after removing the trailing white space characters
 ```
 use carshowroom
 select RTRIM('example    ');
 ```
 
-### `TRIM('string');` - Returns the string after removing the leading and the trailing white space characters
+### `TRIM('string');`
+* Returns the string after removing the leading and the trailing white space characters
 ```
 use carshowroom
 select TRIM('	example		');
 select TRIM('.com' from Email) from customer;
 ```
 
-### `NOW();` - It returns the current system date and time
+### `NOW();`
+* It returns the current system date and time
 ```
 use carshowroom;
 select NOW();
 ```
 
-### `DATE();` - It returns the date part from the date/time expression
+### `DATE();`
+It returns the date part from the date/time expression
 ```
 use carshowroom;
 select DATE(NOW());
 ```
 
-### `MONTH(date);` - It returns the month in numeric form of the date
+### `MONTH(date);`
+* It returns the month in numeric form of the date
 ```
 use carshowroom;
 select MONTH('2005-09-16');
 select MONTH(DOJ) from employee;
 ```
 
-### `MONTHNAME(date);` - It returns the month name from the specified date
+### `MONTHNAME(date);`
+* It returns the month name from the specified date
 ```
 use carshowroom;
 select MONTHNAME('2005-09-16');
 ```
 
-### `YEAR(date);` - It returns the year from the date
+### `YEAR(date);`
+* It returns the year from the date
 ```
 use carshowroom;
 select YEAR('2005-09-16');
 ```
 
-### `DAY(date);` - It returns the day part from the date
+### `DAY(date);`
+* It returns the day part from the date
 ```
 use carshowroom;
 select DAY('2005-09-16');
 ```
 
-### `DAYNAME(date);` - It returns the name of the day from the date
+### `DAYNAME(date);`
+* It returns the name of the day from the date
 ```
 use carshowroom;
 select DAYNAME('2005-09-16');
 select DAYNAME(DOJ) from employee;
 ```
 
-### `MAX(column);` - Returns the largest value from the specified column
+### `MAX(column);`
+* Returns the largest value from the specified column
 ```
 use carshowroom;
 select MAX(Price) from inventory;
 ```
 
-### `MIN(column);` - Returns the smallest value from the specified column
+### `MIN(column);`
+* Returns the smallest value from the specified column
 ```
 use carshowroom;
 select MIN(Price) from inventory;
 ```
 
-### `AVG(column);` - Returns the average of the values in the specified column
+### `AVG(column);`
+* Returns the average of the values in the specified column
 ```
 use carshowroom;
 select AVG(Price) from inventory;
 ```
 
-### `SUM(column);` - Returns the sum of the values in the specified column
+### `SUM(column);`
+* Returns the sum of the values in the specified column
 ```
 use carshowroom;
 select SUM(Price) from inventory;
 ```
 
-### `COUNT(column);` - Returns the number of values in a column IGNORING THE NULL VALUES
+### `COUNT(column);`
+* Returns the number of values in a column IGNORING THE NULL VALUES
 ```
 use carshowroom;
 select COUNT(Price) from inventory;
 ```
 
-### `COUNT(*);` - Returns the number of records IN A TABLE
+### `COUNT(*);`
+* Returns the number of records IN A TABLE
 ```
 use carshowroom;
 select COUNT(*);
