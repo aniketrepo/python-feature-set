@@ -12,4 +12,20 @@ marksUT= pd.DataFrame({
 print(marksUT)
 print('\n')
 
-print(marksUT.max())
+print(marksUT.max())    # Will return the maximum values in each column
+print('\n')
+
+print(marksUT.max(numeric_only= True))  # Will only return the maximum numeric values from each columns, ignores the columns which store non-numeric values
+print('\n')
+
+marksUT2= marksUT[marksUT.UT == 2]
+print('The marks scored by each student in the UT-2 are:')
+print(marksUT2)
+print('\n')
+
+print('Maximum marks scored by each student in UT-2 are:')
+print(marksUT2.max(numeric_only= True))
+print('\n')
+
+print(marksUT.max(axis=1))      # To print the maximum marks of a row, one should specify axis=0
+print('\n')
