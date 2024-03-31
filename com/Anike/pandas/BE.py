@@ -167,4 +167,3 @@ print('\n')
 
 print(sales.rename(index={'Ankit':'Vivaan','Madhu':'Shailesh'}))
 print('\n')
-
