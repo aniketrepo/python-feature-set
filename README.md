@@ -44,4 +44,5 @@
 
 
 ## MySQL
+* [SQL Functions](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/db/sqls/sql-functions.md)
 * [Connection with MySQL](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/db/mysql/MySQLTest.py)
