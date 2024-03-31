@@ -9,9 +9,12 @@ print('\n')
 
 seriesAlph= pd.Series(np.arange(10,16,1), index= ['a', 'b', 'c', 'd', 'e', 'f'])
 print(seriesAlph[1:3])  # To print the values at indices 1 and 2, as the last one is excluded
+print('\n')
 
 seriesAlph[1:3]= 50  # To change the values of indices 1 to 2 to 50
 print(seriesAlph)
+print('\n')
 
 seriesAlph['a':'c']= 500   # Slicing using index labels
 print(seriesAlph)
+print('\n')
