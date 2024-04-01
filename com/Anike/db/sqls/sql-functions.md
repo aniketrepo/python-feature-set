@@ -211,7 +211,7 @@ select * from dance union select * from music;	### to apply union between two ta
 ```
 
 ### INTERSECT- 
-* t is used to obtain the common tuples from two tables
+* It is used to obtain the common tuples from two tables
 ```
 use school;
 select * from dance intersect select * from music;	### to apply an intersect between two tables dance and music
