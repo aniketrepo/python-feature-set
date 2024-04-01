@@ -35,11 +35,11 @@ print(ResultDF)
 print('\n')
 
 # Deleting rows or columns from a DataFrame
-ResultDF= ResultDF.drop('Science', axis=0)
+ResultDF= ResultDF.drop('Science', axis=0)  # Drop row
 print(ResultDF)
 print('\n')
 
-ResultDF= ResultDF.drop(['Arnab', 'Riya'], axis=1)
+ResultDF= ResultDF.drop(['Arnab', 'Riya'], axis=1)  # Drop column
 print(ResultDF)
 print('\n')
 
