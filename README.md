@@ -11,6 +11,7 @@
 * [BMI Calculator](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/BMI%20Calculator.py)
 * [Methods of series](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/string%20manipulation.py)
 * [Number Manipulation and F Strings in Python](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Number%20Manipulation%20and%20F%20Strings%20in%20Python.py)
+* [Weeks till death program](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Weeks%20till%20death%20program.py)
 * [Library Managment System](https://github.com/aniketrepo/python-feature-set/tree/main/com/Anike/lms)
 
 
