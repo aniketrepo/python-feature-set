@@ -1,4 +1,4 @@
-# Lets say that each one of us has 90 years left to live
+# Lets say that each one of us lives till 90
 age = int(input('Please enter your current age: '))
 years = 90 - age
 weeks = years * 52
