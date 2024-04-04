@@ -1,6 +1,6 @@
 import pandas as pd
 
-ResultSheet= {
+R = esultSheet= {
     'Arnab': pd.Series([90, 91, 97],
                        index= ['Math', 'Science', 'Hindi']),
     'Ramit': pd.Series([92, 98, 85],
