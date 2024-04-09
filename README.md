@@ -13,6 +13,7 @@
 * [Number Manipulation and F Strings in Python](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Number%20Manipulation%20and%20F%20Strings%20in%20Python.py)
 * [Weeks till death program](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Weeks%20till%20death%20program.py)
 * [Tip Calculator](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Tip%20Calculator.py)
+* [Odd Even Checker](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Odd%20Even%20Checker.py)
 * [Library Managment System](https://github.com/aniketrepo/python-feature-set/tree/main/com/Anike/lms)
 
 
