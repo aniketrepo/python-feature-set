@@ -8,7 +8,7 @@
 * [Band name generator](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/band%20name%20generator.py)
 * [Type Error, Type Checking and Type Conversion](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/type%20error%2C%20type%20checking%20and%20type%20conversion.py)
 * [A program which adds the digits of a provided two digit number](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/A%20program%20which%20adds%20the%20digits%20of%20a%20provided%20two%20digit%20number.py)
-* [BMI Calculator](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/BMI%20Calculator.py)
+* [BMI Calculator v1](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/BMI%20Calculator%20v1.py)
 * [Methods of series](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/string%20manipulation.py)
 * [Number Manipulation and F Strings in Python](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Number%20Manipulation%20and%20F%20Strings%20in%20Python.py)
 * [Weeks till death program](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Weeks%20till%20death%20program.py)
@@ -18,7 +18,7 @@
 * [Rollercoaster v2](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Rollercoaster%20v2.py)
 * [Rollercoaster v3](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Rollercoaster%20v3.py)
 * [Rollercoaster v4](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Rollercoaster%20v4.py)
-* 
+* [BMI Calculator v2](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/BMI%20Calculator%20v2.py)
 * [Library Managment System](https://github.com/aniketrepo/python-feature-set/tree/main/com/Anike/lms)
 
 
