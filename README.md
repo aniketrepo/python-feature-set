@@ -14,8 +14,9 @@
 * [Weeks till death program](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Weeks%20till%20death%20program.py)
 * [Tip Calculator](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Tip%20Calculator.py)
 * [Odd Even Checker](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Odd%20Even%20Checker.py)
-* [Rollercoaster](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Rollercoaster.py)
+* [Rollercoaster v1](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Rollercoaster.py)
 * [Rollercoaster v2](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Rollercoaster%20v2.py)
+* [Rollercoaster v3](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Rollercoaster%20v3.py)
 * [Library Managment System](https://github.com/aniketrepo/python-feature-set/tree/main/com/Anike/lms)
 
 
