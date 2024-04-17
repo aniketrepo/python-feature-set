@@ -1,4 +1,5 @@
 # [https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/stuff/Treasure%20Island.png] used for reference
+
 input("Welcome to Treasure Island.")
 input("Your mission is to find the treasure.")
 input("You reach on the shore of the treasure island. It's big and spooky. You have a forest in front of you.")
