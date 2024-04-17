@@ -26,7 +26,7 @@ if choice1 == "L":
             print("You scream for your life but alas no one can hear you as you are alone on that island (probably).")
             input("You burn to your death, GAME OVER.")
         elif choice1 == "B":
-            input("You open the blue door and procced through a dark hallway into a dimly lit room.")
+            input("You open the blue door and proceed through a dark hallway into a dimly lit room.")
             print("Just as you enter the room you are greeted by 500 trolls who look hungry for human flesh. They feast on your body as your screams surround the entire tower.")
             print("Oh boy, GAME OVER.")
         elif choice3 == "Y":
