@@ -25,6 +25,7 @@
 * [BMI Calculator v2](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/BMI%20Calculator%20v2.py)
 * [Leap Year](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Leap%20Year.py)
 * [Python Pizza](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Python%20Pizza.py)
+* [The Love Calculator](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/The%20Love%20Calculator.py)
 * [Library Managment System](https://github.com/aniketrepo/python-feature-set/tree/main/com/Anike/lms)
 
 
