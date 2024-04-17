@@ -28,6 +28,7 @@
 * [The Love Calculator](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/The%20Love%20Calculator.py)
 * [Treasure Island](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Treasure%20Island.py)
 
+## The Random Module
 
 ## Pandas (PANel DAtaS)
 * [Random](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/pandas/BE.py)
