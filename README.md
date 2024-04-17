@@ -29,6 +29,7 @@
 * [Treasure Island](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Treasure%20Island.py)
 
 ## The Random Module
+* [A coin toss](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/A%20coin%20toss.py)
 
 ## The Pandas Module (PANel DAtaS)
 * [Random](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/pandas/BE.py)
