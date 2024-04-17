@@ -19,6 +19,7 @@
 * [Rollercoaster v3](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Rollercoaster%20v3.py)
 * [Rollercoaster v4](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Rollercoaster%20v4.py)
 * [Rollercoaster v5](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Rollercoaster%20v5.py)
+* [Rollercoaster v6](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Rollercoaster%20v6.py)
 * [BMI Calculator v2](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/BMI%20Calculator%20v2.py)
 * [Leap Year](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Leap%20Year.py)
 * [Python Pizza](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/Python%20Pizza.py)
