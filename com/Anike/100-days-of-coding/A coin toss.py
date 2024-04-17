@@ -1,6 +1,6 @@
 import random
 
-num = random.randint(1, 2)
+num = random.randint(1, 0)
 if num == 1:
     print("Heads")
 else:
