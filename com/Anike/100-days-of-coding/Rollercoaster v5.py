@@ -14,6 +14,7 @@ if height >= 120:
     else:
         print("Adult Tickets are $12")
         bill = 12
+
     #for picture
     choice = str(input("Pictures cost an additional of $3. Do you want a picture taken (Y or N): "))
     if choice == "Y" or "y":
