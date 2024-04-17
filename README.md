@@ -30,7 +30,7 @@
 
 ## The Random Module
 
-## Pandas (PANel DAtaS)
+## The Pandas Module (PANel DAtaS)
 * [Random](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/pandas/BE.py)
 
 ### Series-
@@ -64,7 +64,7 @@
 * [Calculating number of values in a DataFrame](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/pandas/Calculating%20number%20of%20values%20in%20a%20DataFrame.py)
 
 
-## Matplotlib
+## The Matplotlib Module
 * [Plotting temperature against date](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/matplotlib/Plotting%20temperature%20against%20date.py)
 
 ## Others
