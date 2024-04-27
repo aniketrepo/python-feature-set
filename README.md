@@ -31,6 +31,7 @@
 ## The Random Module
 * [A coin toss](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/A%20coin%20toss.py)
 * [A die throw](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/A%20die%20throw.py)
+* [The guessing game](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/100-days-of-coding/The%20guessing%20game.py)
 
 ## The Pandas Module (PANel DAtaS)
 * [Random](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/pandas/BE.py)
