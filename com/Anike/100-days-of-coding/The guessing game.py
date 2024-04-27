@@ -15,6 +15,5 @@ while True:
     elif guessed < to_guess:
         print("Too low! Try again.\n")
     else:
-        print("Congratulations! You guessed the correct number!\n")
+        print(f"Congratulations! You guessed the correct number in {attempts} attempts.`\n")
         break
-print(f"You guessed the correct number in {attempts} attempts.")
