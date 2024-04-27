@@ -10,6 +10,7 @@ attempts = 0
 while True:
     guessed = int(input("Please enter your guess: "))
     attempts += 1
+
     if guessed > to_guess:
         print("Too high! Try again.\n")
     elif guessed < to_guess:
