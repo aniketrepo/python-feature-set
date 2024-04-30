@@ -1,4 +1,4 @@
-5import random
+import random
 
 print("Welcome to the guessing game!")
 rng = int(input("Please enter the range (from 1 to): "))
