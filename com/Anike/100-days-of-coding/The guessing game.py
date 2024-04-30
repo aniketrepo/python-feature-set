@@ -1,4 +1,4 @@
-import random
+5import random
 
 print("Welcome to the guessing game!")
 rng = int(input("Please enter the range (from 1 to): "))
@@ -16,5 +16,5 @@ while True:
     elif guessed < to_guess:
         print("Too low! Try again.\n")
     else:
-        print(f"Congratulations! You guessed the correct number in {attempts} attempts.`\n")
+        print(f"Congratulations! You guessed the correct number in {attempts} attempts.\n")
         break
