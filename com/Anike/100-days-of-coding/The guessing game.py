@@ -4,6 +4,7 @@ print("Welcome to the guessing game!")
 rng = int(input("Please enter the range (from 1 to): "))
 
 print(f"Alright! Generating a number between 1 and {rng}!")
+print("Number generated!")
 to_guess = random.randint(1, rng)
 attempts = 0
 
