@@ -22,9 +22,9 @@ if height >= 120:
     choice = str(input("Pictures cost an additional of $3. Do you want a picture taken (Y or N): "))
     if choice == "Y":
         bill += 3
-        print(f"Your total bill is {bill}.")
+        print(f"Your total bill is ${bill}.")
     else:
-        print(f"Your total bill is {bill}.")
+        print(f"Your total bill is ${bill}.")
 
 
 # can"t ride
