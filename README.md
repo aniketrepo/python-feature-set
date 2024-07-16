@@ -70,8 +70,11 @@
 ## The Matplotlib Module
 * [Plotting temperature against date](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/matplotlib/Plotting%20temperature%20against%20date.py)
 
+## The to-do-list
+- [Blueprint](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/planning-tool/blueprint.md)
+
 ## Others
-* [Library Managment System](https://github.com/aniketrepo/python-feature-set/tree/main/com/Anike/lms)
+* [Library Management System](https://github.com/aniketrepo/python-feature-set/tree/main/com/Anike/lms)
 
 ## MySQL
 * [SQL Functions](https://github.com/aniketrepo/python-feature-set/blob/main/com/Anike/db/sqls/sql-functions.md)
